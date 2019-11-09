@@ -4,7 +4,7 @@ class Shoe
     @brand = brand
   end
 end
-def cobble
+def cobble.new
     puts "cobble says that the shoe has been repaired"
   end
 end
