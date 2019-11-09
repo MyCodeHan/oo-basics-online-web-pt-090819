@@ -5,4 +5,5 @@ class Shoe
   end
 end
 def cobble
-  
+  puts "Shoes have been repaird"
+end
